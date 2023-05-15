@@ -1,38 +1,128 @@
-.App {
-  text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.App{
+  background-color: #1f1f1f;
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+/* App.css
+.App {
+  text-align: center;
+  background-color: #1f1f1f;
+  color: white;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.top-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
 }
+
+.logo {
+  font-size: 24px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+.signup{
+  background-color: aliceblue;
+  border-radius: 50px;
+  padding:2px;
+  color:black;
+}
+nav ul li {
+  margin-right: 20px;
+}
+
+.landing-section {
+  display: flex;
+  padding: 50px;
+}
+
+.info-text {
+  flex: 1;
+  text-align: left;
+}
+
+.get-started-button {
+  margin-top: 20px;
+}
+
+.images {
+  flex: 1;
+  text-align: right;
+}
+
+.how-it-works-section {
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+.how-it-works-text {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.faq-section {
+  padding: 50px;
+}
+
+.footer {
+  background-color: #333;
+  padding: 20px;
+}
+
+/*------------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------------*/
+/*------------------------------------------------------------------------------------------------------------------*/
+/*.expansion-panels {
+  margin-top: 20px;
+  width : 65%;
+  margin: auto;
+}
+
+.expansion-panel {
+  margin-bottom: 10px;
+}
+
+.panel-header {
+  display: flex;
+  align-items: space-between;
+  padding: 10px;
+  cursor: pointer;
+  text-align: left;
+}
+
+.panel-header h3 {
+  margin: 0;
+  flex-grow: 1;
+}
+
+.arrow {
+  font-size: 20px;
+  font-weight: 5000;
+  color : cyan;
+  transform: rotate(0deg);
+  transition: transform 0.3s ease-in-out;
+}
+
+.expanded .arrow {
+  transform: rotate(360deg);
+  color: antiquewhite;
+}
+
+.panel-content {
+  padding: 1px;
+  display: flex;
+  justify-content: space-around;
+} */
