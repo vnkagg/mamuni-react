@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mamuni-react/static/css/main.54e16132.css",
+    "main.js": "/mamuni-react/static/js/main.852cd624.js",
+    "static/js/787.89a87f1f.chunk.js": "/mamuni-react/static/js/787.89a87f1f.chunk.js",
+    "static/media/image.png": "/mamuni-react/static/media/image.f16f131230442a04df21.png",
+    "index.html": "/mamuni-react/index.html",
+    "main.54e16132.css.map": "/mamuni-react/static/css/main.54e16132.css.map",
+    "main.852cd624.js.map": "/mamuni-react/static/js/main.852cd624.js.map",
+    "787.89a87f1f.chunk.js.map": "/mamuni-react/static/js/787.89a87f1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e16132.css",
+    "static/js/main.852cd624.js"
+  ]
+}
